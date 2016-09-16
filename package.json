@@ -1,0 +1,19 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "small test site to study jenkins deployments.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martyca/jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martyca/jenkins/issues"
+  },
+  "homepage": "https://github.com/martyca/jenkins#readme"
+}
